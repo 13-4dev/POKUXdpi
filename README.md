@@ -9,7 +9,7 @@ A simple tool to bypass **Deep Packet Inspection (DPI) for Windows**.
 
 ## Run
 
-1. Download the latest version from the [releases page](https://github.com/yourusername/pokux/releases).
+1. Download the latest version from the [releases page](https://github.com/13-4dev/pokux/releases).
 2. Unpack the archive.
 3. Run `run.bat`.
 
